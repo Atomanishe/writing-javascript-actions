@@ -12,3 +12,6 @@ jobs:
 
     - name: hello-action
       uses: ./.github/actions/hello-world
+    
+    - name: hello-action2
+      uses: ./.github/actions/hello-world
